@@ -2,7 +2,7 @@ class Tada < Formula
   desc "ドン！"
   homepage ""
   url "https://github.com/54chair/tada/archive/refs/tags/v0.0.1.tar.gz"
-  sha256 "0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5"
+  sha256 "66e234faeb579ab856dea20de5e17b835807fcade35b8960680d265812f059c7"
 
   depends_on "php"
 
